@@ -1,2 +1,4 @@
 # boletossanmarcos
-sistema de boletos para una terminal de autobuses
+Definicion sistema de boletos para una terminal de autobuses
+IDE: NetBeans 11
+Base de Datos: MariaDB
